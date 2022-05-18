@@ -15,7 +15,7 @@ class Catalog {
     });
     const html = `
         <ul class="catalog-container" >
-        ${htmlCatalog};
+        ${htmlCatalog}
         </ul>
         `;
 
